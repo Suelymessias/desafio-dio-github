@@ -1,0 +1,16 @@
+# Comandos importantes 
+
+Mkdir: criar pasta dentro do git
+
+control l: limpar terminal
+
+cd ..  volta diretório
+
+git add -a :incluir pasta no repositório local
+
+git status : ver status do diretório
+
+git commit -m "mensagem" adiciona pasta
+
+git push origin main leva para o github
+
