@@ -6,7 +6,7 @@ control l: limpar terminal
 
 cd ..  volta diretório
 
-git add -a :incluir pasta no repositório local
+git add . :incluir pasta no repositório local
 
 git status : ver status do diretório
 
